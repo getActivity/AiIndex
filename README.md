@@ -8,77 +8,207 @@
 
 ## 目录
 
+* [AI 编程相关](#ai-编程相关)
+
 * [AI 聊天相关](#ai-聊天相关)
 
 * [AI 绘画相关](#ai-绘画相关)
 
+* [AI 视频相关](#ai-视频相关)
+
+* [AI 音频相关](#ai-音频相关)
+
 * [AI 办公相关](#ai-办公相关)
 
-* [AI 其他场景](#ai-其他场景)
+* [AI 模型下载](#ai-模型下载)
+
+* [本地部署模型](#本地部署模型)
+
+* [Github ai 助手](#github-ai-助手)
+
+* [其他场景](#其他场景)
+
+## AI 编程相关
+
+* Tare（字节跳动出品）
+
+    * [Tare 官网](https://www.tare.ai/)
+
+    * [Tare IDE 插件下载](https://plugins.jetbrains.com/plugin/24326-trae-ai-coding-assistant)
+
+    * [SOLO 模式 - Tare 官方文档](https://docs.trae.ai/ide/solo-mode?_lang=zh)
+
+    * [如何评价 Trae 发布 2.0，以及新推出的 SOLO 模式体验如何？- 知乎](https://www.zhihu.com/question/1930712114894431572)
+
+* Cursor
+
+    * [Cursor 官网](https://www.cursor.so/)
+
+    * [【教程】cursor 展示 GPT-4 强大的编程能力](https://www.bilibili.com/video/BV1W84y1w7jw)
+
+    * [突发，Cursor 封禁国内使用 Claude 等模型](https://zhuanlan.zhihu.com/p/1928953658873213433)
+
+    * [Cursor 如何打开 Chat 界面？](https://blog.csdn.net/Hodors/article/details/142386821)
+
+* Copilot（Github 官方出品，开源作者、教师、学生免费使用）
+
+    * [Copilot 官网](https://github.com/features/copilot)
+
+    * [Copilot IDE 插件下载](https://plugins.jetbrains.com/plugin/17718-github-copilot)
+
+    * [【教程】在环境中配置 GitHub Copilot](https://docs.github.com/zh/copilot/configuring-github-copilot/configuring-github-copilot-in-your-environment)
+
+* Claude Code
+
+    * [Claude Code 官方教程](https://docs.anthropic.com/zh-CN/docs/claude-code/overview)
+
+    * [最强AI编程工具Claude Code保姆级新手教程！小白友好！](https://www.bilibili.com/video/BV1S8u2zDE5p/)
+
+    * [Claude Code重磅推出Sub agents功能！轻松实现任务专业化和模块化！](https://www.bilibili.com/video/BV1Uwb9zQEiU/)
+
+* 通义灵码（阿里巴巴出品）
+
+    * [通义灵码官网](https://lingma.aliyun.com/)
+
+    * [通义灵码 IDE 插件下载](https://plugins.jetbrains.com/plugin/17809-lingma--alibaba-cloud-ai-coding-assistant)
+
+* 文心快码（百度出品）
+
+    * [文心快码官网](https://comate.baidu.com/zh/)
+
+    * [文心快码 IDE 插件下载](https://plugins.jetbrains.com/plugin/23475-baidu-comate)
+
+* CodeBuddy（腾讯出品）
+
+    * [腾讯云代码助手 CodeBuddy](https://copilot.tencent.com/)
+
+    * [CodeBuddy IDE 插件下载](https://plugins.jetbrains.com/plugin/24379-tencent-cloud-codebuddy)
+
+* Windsurf（前身是 Codeium，现已被 OpenAi 收购）
+
+    * [Windsurf 官网](https://windsurf.com/)
+
+    * [Windsurf IDE 插件下载](https://plugins.jetbrains.com/plugin/20540-windsurf-plugin-formerly-codeium-for-python-js-java-go--)
+
+* Jules（Google 官方出品）
+
+    * [Jules 官网](https://jules.google/)
+
+* Gemini（Google 官方出品）
+
+    * [Gemini IDE 插件下载](https://plugins.jetbrains.com/plugin/24198-gemini-code-assist)
+
+    * [Android Studio Gemini 官方文档](https://developer.android.com/studio/preview/gemini?hl=zh-cn#faq)
+
+    * [Studio Bot - 让 AI 帮我写 Android 代码](https://juejin.cn/post/7231997803559141413)
+
+* CodeGeeX
+
+    * [CodeGeeX 官网](https://www.codegeex.cn/)
+
+    * [CodeGeeX IDE 插件下载](https://plugins.jetbrains.com/plugin/20587-codegeex-ai-coding-assistant)
+
+* Kiro（亚马逊出品）
+
+    * [Kiro 官网](https://kiro.dev/)
+
+* Amazon Q（亚马逊出品）
+
+    * [Amazon Q](https://aws.amazon.com/cn/codewhisperer/)
+
+    * [Amazon Q IDE 插件下载](https://plugins.jetbrains.com/plugin/24267-amazon-q)
+
+* CodeGPT
+
+    * [CodeGPT 官网](https://codegpt.co/)
+
+    * [CodeGPT IDE 插件下载](https://plugins.jetbrains.com/plugin/24372-codegpt-chat--ai-agents)
+
+* Fitten Code
+
+    * [Fitten Code 官网](https://www.fitten.com/)
+
+    * [Fitten IDE 插件下载](https://plugins.jetbrains.com/plugin/23640-fitten-code-faster-and-better-ai-assistant)
 
 ## AI 聊天相关
 
-* [ChatGPT 官网（需要翻墙）](https://chat.openai.com/chat)
+* [豆包官网](https://www.doubao.com/chat/)
 
-* ChatGPT 镜像站点
+* [DeepSeek 官网](https://www.deepseek.com/)
 
-   * [FORCHANGE AI EDU](https://chat.forchange.cn/)
-
-   * [Free GPT（需要翻墙）](https://freegpt.one/)
-
-   * [BAI Chat（需要翻墙）](https://chatbot.theb.ai/)
-
-   * [GPT3.5-Chatbot](https://thechatgpt.ai/chat)
-
-   * [Copy AI](https://app.copy.ai/projects/22714728?tab=results&tool=chat)
-
-   * [自由聊天 - 达芬奇](https://ai.teefactech.com/custom)
-
-   * [QAChat](https://qachat.cc/)
-
-   * [公益 GPT](https://gpt.huijia.cf/)
-
-   * [AI Chat](https://ai227.com/)
-
-   * [94 GPT（需要翻墙）](https://94gpt.com/)
-
-   * [ChatAI（需要翻墙）](https://chat.uue.me/)
-
-   * [ChatGPT Vercel](https://www.yubadev.com/)
-
-   * [ChatGPT Bot（需要翻墙）](https://gpt.xeasy.me/)
-
-   * [ChatGPT - 仅用于开发交流](https://chat.yqcloud.top/)
-
-   * [AI免费中文公益版（需要翻墙）](https://gpt.tool00.com/)
-
-   * [Poe - Sage（需要翻墙）](https://poe.com/)
+* [通义千问](https://tongyi.aliyun.com/)
 
 * [文心一言](https://yiyan.baidu.com/)
 
+* [智谱清言](https://chatglm.cn/)
+
+* [Kimi](https://www.kimi.com/)
+
+* [ChatGPT 官网（需要翻墙）](https://chat.openai.com/chat)
+
+* [Grok（xAi）](https://grok.com/chat)
+
+* [Claude](https://claude.ai/new)
+
+* [MiniMax](https://chat.minimaxi.com/)
+
+* [Meta AI 助手（中国区不可用）](https://www.meta.ai/)
+
+* [Gemini（需要翻墙）](https://gemini.google.com/app)
+
+* [Poe - Sage（需要翻墙）](https://poe.com/)
+
+* 部署到聊天软件上
+
+    * 钉钉
+
+        * [Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)
+
+    * 微信
+
+        * [chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)
+
 * [微信 -WeLM](https://welm.weixin.qq.com/docs/playground/)
+
+* ChatGLM-6B
+
+   * [ChatGLM-6B 开源地址](https://github.com/THUDM/ChatGLM-6B)
+
+   * [【教程】手把手教你本地部署清华大学的 ChatGLM-6B 模型](https://www.datalearner.com/blog/1051680925189690)
 
 ## AI 绘画相关
 
 * AI 绘图
 
+    * [Midjourney](https://www.midjourney.com/home/)
+
+    * Stable Diffusion
+
+        * [Stable Diffusion 2-1（需要翻墙）](https://huggingface.co/spaces/stabilityai/stable-diffusion)
+
+        * 搭建 Stable Diffusion
+
+          * [Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+
+          * [Stable Diffusion 模型下载](https://civitai.com/)
+
+    * [AI 图像生成器（100% 免费） - Raphael AI](https://raphaelai.org/)
+
+    * [文心一格](https://yige.baidu.com/)
+
+    * [图片生成 - 可灵 AI](https://app.klingai.com/cn/text-to-image/new)
+
+    * [图片生成 - 即梦 AI](https://jimeng.jianying.com/ai-tool/home?type=image)
+
+    * [图片生成 - SkyReels](https://www.skyreels.ai/home/tools/text2image)
+
     * [Microsoft Bing - AI 画图（需要翻墙）](https://cn.bing.com/images/create)
 
-    * [Stable Diffusion 2-1（需要翻墙）](https://huggingface.co/spaces/stabilityai/stable-diffusion)
-
-    * [SIX PEN Art](https://6pen.art/generate)
-
     * [DreamStudio（需要翻墙）](http://beta.dreamstudio.ai/)
-
-    * [DALL·E](https://labs.openai.com/)
 
     * [Dream by WOMBO](https://dream.ai/create)
 
     * [Choose AI Method - starryai](https://starryai.com/app/create)
-
-    * [My Creations - NightCafe Creator](https://creator.nightcafe.studio/my-creations)
-
-    * [一帧秒创 - ai 作画](https://aigc.yizhentv.com/app/tools/aiPaint)
 
 * AI 上色
 
@@ -88,15 +218,49 @@
 
    * [美图 AI - 绘画机器人](https://ai.meitu.com/algorithm/generateImages/AICartoonStyle1)
 
+## AI 视频相关
+
+* [Sora - OpenAi](https://openai.com/zh/sora/)
+
+* [Veo - Google](https://deepmind.google/models/veo/)
+
+* [让你的创意变成大片 - MiniMax](https://hailuoai.com/)
+
+* [视频生成 - 可灵 AI](https://app.klingai.com/cn/image-to-video/frame-mode/new)
+
+* [视频生成 - SkyReels](https://www.skyreels.ai/home/tools/to-video)
+
+* 即梦 AI
+
+   * [视频生成 - 即梦 AI](https://jimeng.jianying.com/ai-tool/home?type=video)
+
+   * [动作模仿 - 即梦 AI](https://jimeng.jianying.com/ai-tool/home?type=actionCopy)
+
+   * [数字人 - 即梦 AI](https://jimeng.jianying.com/ai-tool/home?type=digitalHuman)
+
+* Vidu AI
+
+   * [参考多张图片中的主体生成视频 - Vidu AI](https://www.vidu.cn/create/character2video)
+
+   * [图生视频 - Vidu AI](https://www.vidu.cn/create/img2video)
+
+   * [文生视频 - Vidu AI](https://www.vidu.cn/create/text2video)
+
+## AI 音频相关
+
+* [让文字栩栩如“声” - MiniMax](https://www.minimaxi.com/audio)
+
+* [音效生成 - 可灵 AI](https://app.klingai.com/cn/text-to-audio/new)
+
+* [AI 音效 - Vidu AI](https://www.vidu.cn/text2audio)
+
 ## AI 办公相关
 
-* 编程
+* 视频/音频总结
 
-    * Cursor
+    * [视频/音频总结工具 - VideoSeek](https://www.videoseek.ai/)
 
-        * [Cursor 官网](https://www.cursor.so/)
-
-       * [【教程】cursor 展示 GPT-4 强大的编程能力](https://www.bilibili.com/video/BV1W84y1w7jw)
+    * [VideoSeek 插件 - Google Chrome](https://chromewebstore.google.com/detail/videoseek-ai-youtubeb%E7%AB%99tik/fjcpmfaddpkbhganaagemnolpgildlha)
 
 * PPT
 
@@ -131,18 +295,62 @@
     * 搭配 VBA
  
         * [【教程】用 ChatGPT 自动化操作 Excel，十倍提升你的工作效率！](https://www.bilibili.com/video/BV1J8411p7wX/)
- 
-        * [ChatGPT傻瓜式教程：Excel 白痴如何使用 ChatGPT 操作表格](https://www.bilibili.com/video/BV1FD4y1P7Jg/)
- 
+
 * Word
+
+    * [Chat2Doc - 您阅读文档的好帮手](https://chat2doc.cn/)
 
     * [【教程】全球首个集成 ChatGPT 的 Office 软件来了](https://www.bilibili.com/video/BV1Xb41197cu/)
 
-## AI 其他场景
+* PDF
 
-* [一帧秒创 - ai 帮写](https://aigc.yizhentv.com/app/tools/aiHelp)
+    * [AI PDF 智能助手：对话、总结、洞悉文档精华 - VideoSeek](https://www.videoseek.ai/feature/ai-pdf/zh)
 
-* [达芬奇——你的AI创作大师](https://ai.teefactech.com/home)
+    * [Chat2Doc - 您阅读文档的好帮手](https://chat2doc.cn/)
+
+    * [ChatPDF - Chat with any PDF!](https://www.chatpdf.com/)
+
+## AI 模型下载
+
+* llama（Meta 开源）
+
+    * [llama3](https://github.com/meta-llama/llama3)
+
+    * [llama](https://github.com/meta-llama/llama)
+
+* DeepSeek
+
+    * [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)
+
+    * [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)
+
+* Qwen3
+
+    * [Qwen3](https://github.com/QwenLM/Qwen3)
+
+## 本地部署模型
+
+* [MLC LLM](https://github.com/mlc-ai/mlc-llm)
+
+* [Google AI Edge Gallery](https://github.com/google-ai-edge/gallery)
+
+## Github ai 助手
+
+* [DeepWiki](https://deepwiki.com/)
+
+* [Zread.ai](https://zread.ai/)
+
+* [GitMCP](https://gitmcp.io/)
+
+* [使用 Copilot 探索 Github 项目](https://docs.github.com/zh/get-started/exploring-projects-on-github/using-github-copilot-to-explore-projects)
+
+## 其他场景
+
+* [AI 试衣 - 可灵 AI](https://app.klingai.com/cn/try-on/model/new)
+
+* [AI 声音生成](https://github.com/svc-develop-team/so-vits-svc)
+
+* [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
 
 * [AI帮个忙 | 多功能AI小帮手](https://ai-toolbox.codefuture.top/)
 
@@ -154,21 +362,25 @@
 
 * 权限框架：[XXPermissions](https://github.com/getActivity/XXPermissions) ![](https://img.shields.io/github/stars/getActivity/XXPermissions.svg) ![](https://img.shields.io/github/forks/getActivity/XXPermissions.svg)
 
-* 吐司框架：[ToastUtils](https://github.com/getActivity/ToastUtils) ![](https://img.shields.io/github/stars/getActivity/ToastUtils.svg) ![](https://img.shields.io/github/forks/getActivity/ToastUtils.svg)
+* 吐司框架：[Toaster](https://github.com/getActivity/Toaster) ![](https://img.shields.io/github/stars/getActivity/Toaster.svg) ![](https://img.shields.io/github/forks/getActivity/Toaster.svg)
 
 * 网络框架：[EasyHttp](https://github.com/getActivity/EasyHttp) ![](https://img.shields.io/github/stars/getActivity/EasyHttp.svg) ![](https://img.shields.io/github/forks/getActivity/EasyHttp.svg)
 
 * 标题栏框架：[TitleBar](https://github.com/getActivity/TitleBar) ![](https://img.shields.io/github/stars/getActivity/TitleBar.svg) ![](https://img.shields.io/github/forks/getActivity/TitleBar.svg)
 
-* 悬浮窗框架：[XToast](https://github.com/getActivity/XToast) ![](https://img.shields.io/github/stars/getActivity/XToast.svg) ![](https://img.shields.io/github/forks/getActivity/XToast.svg)
+* 悬浮窗框架：[EasyWindow](https://github.com/getActivity/EasyWindow) ![](https://img.shields.io/github/stars/getActivity/EasyWindow.svg) ![](https://img.shields.io/github/forks/getActivity/EasyWindow.svg)
 
-* Shape 框架：[ShapeView](https://github.com/getActivity/ShapeView) ![](https://img.shields.io/github/stars/getActivity/ShapeView.svg) ![](https://img.shields.io/github/forks/getActivity/ShapeView.svg)
+* ShapeView 框架：[ShapeView](https://github.com/getActivity/ShapeView) ![](https://img.shields.io/github/stars/getActivity/ShapeView.svg) ![](https://img.shields.io/github/forks/getActivity/ShapeView.svg)
+
+* ShapeDrawable 框架：[ShapeDrawable](https://github.com/getActivity/ShapeDrawable) ![](https://img.shields.io/github/stars/getActivity/ShapeDrawable.svg) ![](https://img.shields.io/github/forks/getActivity/ShapeDrawable.svg)
 
 * 语种切换框架：[MultiLanguages](https://github.com/getActivity/MultiLanguages) ![](https://img.shields.io/github/stars/getActivity/MultiLanguages.svg) ![](https://img.shields.io/github/forks/getActivity/MultiLanguages.svg)
 
 * Gson 解析容错：[GsonFactory](https://github.com/getActivity/GsonFactory) ![](https://img.shields.io/github/stars/getActivity/GsonFactory.svg) ![](https://img.shields.io/github/forks/getActivity/GsonFactory.svg)
 
 * 日志查看框架：[Logcat](https://github.com/getActivity/Logcat) ![](https://img.shields.io/github/stars/getActivity/Logcat.svg) ![](https://img.shields.io/github/forks/getActivity/Logcat.svg)
+
+* 嵌套滚动布局框架：[NestedScrollLayout](https://github.com/getActivity/NestedScrollLayout) ![](https://img.shields.io/github/stars/getActivity/NestedScrollLayout.svg) ![](https://img.shields.io/github/forks/getActivity/NestedScrollLayout.svg)
 
 * Android 版本适配：[AndroidVersionAdapter](https://github.com/getActivity/AndroidVersionAdapter) ![](https://img.shields.io/github/stars/getActivity/AndroidVersionAdapter.svg) ![](https://img.shields.io/github/forks/getActivity/AndroidVersionAdapter.svg)
 
@@ -192,11 +404,9 @@
 
 #### Android 技术 Q 群：10047167
 
-#### 如果您觉得我的开源库帮你节省了大量的开发时间，请扫描下方的二维码随意打赏，要是能打赏个 10.24 :monkey_face:就太:thumbsup:了。您的支持将鼓励我继续创作:octocat:
+#### 如果您觉得我的开源库帮你节省了大量的开发时间，请扫描下方的二维码随意打赏，要是能打赏个 10.24 :monkey_face:就太:thumbsup:了。您的支持将鼓励我继续创作:octocat:（[点击查看捐赠列表](https://github.com/getActivity/Donate)）
 
 ![](https://raw.githubusercontent.com/getActivity/Donate/master/picture/pay_ali.png) ![](https://raw.githubusercontent.com/getActivity/Donate/master/picture/pay_wechat.png)
-
-#### [点击查看捐赠列表](https://github.com/getActivity/Donate)
 
 ## License
 

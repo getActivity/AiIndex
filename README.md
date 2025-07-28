@@ -32,7 +32,7 @@
 
 * Tare（字节跳动出品）
 
-    * [Tare 官网](https://www.tare.ai/)
+    * [Tare 官网](https://www.trae.cn/)
 
     * [Tare IDE 插件下载](https://plugins.jetbrains.com/plugin/24326-trae-ai-coding-assistant)
 

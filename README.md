@@ -328,9 +328,17 @@
 
     * [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)
 
-* Qwen3
+* Qwen3（阿里开源）
 
     * [Qwen3](https://github.com/QwenLM/Qwen3)
+
+* 文心（百度开源）
+
+    * [ERNIE](https://github.com/PaddlePaddle/ERNIE)
+
+    * [模型库 - 飞桨AI Studio 星河社区](https://aistudio.baidu.com/modelsoverview)
+
+    * [ERNIE 4.5 模型系列正式开源](https://yiyan.baidu.com/blog/zh/posts/ernie4.5/)
 
 ## 本地部署模型
 

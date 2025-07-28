@@ -66,6 +66,14 @@
 
     * [Claude Code重磅推出Sub agents功能！轻松实现任务专业化和模块化！](https://www.bilibili.com/video/BV1Uwb9zQEiU/)
 
+    * Claudia（Claude Code 可视化编辑器）
+
+        * [Claudia 开源地址](https://github.com/getAsterisk/claudia)
+
+        * [Claudia让你丢掉Cursor告别命令行！Claude Code终于有GUI了！专为Claude Code打造最强可视化界面保姆级教程！可视化项目管理](https://www.bilibili.com/video/BV16D34zpEGu/)
+
+        * [再见Cursor！我直接Claudia + Claude Code = 全新 GUI 编程体验！Claude 版“可视化 Cursor”来了！](https://www.bilibili.com/video/BV1u9G3zFEii/)
+
 * CodeX（OpenAi 出品）
 
     * [CodeX 官网](https://openai.com/codex/)

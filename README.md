@@ -66,6 +66,10 @@
 
     * [Claude Code重磅推出Sub agents功能！轻松实现任务专业化和模块化！](https://www.bilibili.com/video/BV1Uwb9zQEiU/)
 
+* CodeX（OpenAi 出品）
+
+    * [CodeX 官网](https://openai.com/codex/)
+
 * 通义灵码（阿里巴巴出品）
 
     * [通义灵码官网](https://lingma.aliyun.com/)
